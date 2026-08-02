@@ -2,11 +2,11 @@
   "name": "ETHEREUM ON SOLANA",
   "symbol": "ETHS",
   "description": "Crash-Protected Tokens",
-  "image": "https://raw.githubusercontent.com/Aquas2/BITCOIN/refs/heads/main/BITCOIN%20ON%20SOLANA.png",
+  "image": "https://raw.githubusercontent.com/Aquas2/ETHEREUM-/refs/heads/main/ETHEREUM%20ON%20SOLANA.png",
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/Aquas2/BITCOIN/refs/heads/main/BITCOIN%20ON%20SOLANA.png",
+        "uri": "https://raw.githubusercontent.com/Aquas2/ETHEREUM-/refs/heads/main/ETHEREUM%20ON%20SOLANA.png",
         "type": "image/png"
       }
     ],
