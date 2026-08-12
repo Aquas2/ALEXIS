@@ -1,12 +1,12 @@
 {
-  "name": "ETHEREUM ON SOLANA",
-  "symbol": "ETHS",
+  "name": "ALEXIS",
+  "symbol": "ALEXIS",
   "description": "Crash-Protected Tokens",
-  "image": "https://raw.githubusercontent.com/Aquas2/ETHEREUM-/refs/heads/main/ETHEREUM%20ON%20SOLANA.png",
+  "image": "https://raw.githubusercontent.com/Aquas2/ETHEREUM-/refs/heads/main/ALEXIS.png",
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/Aquas2/ETHEREUM-/refs/heads/main/ETHEREUM%20ON%20SOLANA.png",
+        "uri": "https://raw.githubusercontent.com/Aquas2/ETHEREUM-/refs/heads/main/ALEXIS.png",
         "type": "image/png"
       }
     ],
