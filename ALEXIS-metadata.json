@@ -1,0 +1,21 @@
+
+  "name": "ALEXIS",
+  "symbol": "ALEXIS",
+  "description": "Crash-Protected Tokens",
+  "image": "https://raw.githubusercontent.com/Aquas2/ETHEREUM-/refs/heads/main/ALEXIS.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Aquas2/ETHEREUM-/refs/heads/main/ALEXIS.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "BqqZ4wy1HV2curfQNJJ72X6LKs4GoSrR5ATwBZ4eYXUQ",
+        "share": 100
+      }
+    ]
+  }
+}
